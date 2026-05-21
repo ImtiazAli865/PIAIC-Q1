@@ -17,5 +17,11 @@ while True:
         print("Bot: Assalam o Alaikum!")
     elif "piaic" in user_input.lower():
         print("Bot: PIAIC Pakistan ka best AI course he!")
+    elif "ap kese ho" in user_input.lower():
+        print("Bot: Me theek ho ap kese ho!")
+    elif "sohaib kesa larka he" in user_input.lower():
+        print("Bot: Sohaib achha larka he!")
+    elif "sohaib kiya kar raha he" in user_input.lower():
+        print("Bot: Sohaib khana kha raha he!")
     else:
         print("Bot: Mujhe samajh nahi aaya, dobara poochein!")
