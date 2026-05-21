@@ -1,7 +1,7 @@
-#Git Hub
+# Git Hub
 
-#VS Code
+# VS Code
 
-#Git Install
+# Git Install
 
-Me PIAIC ki practice kr rha ho 
+## Me PIAIC ki practice kr rha ho 
